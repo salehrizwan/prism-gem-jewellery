@@ -1,0 +1,6 @@
+{
+  "name": "PRISM Gem Jewellery",
+  "description": "Timeless elegance, crafted to shine. Minimalist luxury jewellery collection featuring diamonds, fine gold, and precious gemstones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
